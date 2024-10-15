@@ -1,4 +1,4 @@
-Air Quality Analysis (Kaggle Dataset 2015-2020)
+**Air Quality Analysis (Kaggle Dataset 2015-2020)**
 This repository contains a comprehensive analysis of air quality data from 2015 to 2020 using the Kaggle dataset. The project aims to explore historical air quality trends, identify pollution levels, and assess contributing factors like traffic and weather patterns.
 
 Dataset
